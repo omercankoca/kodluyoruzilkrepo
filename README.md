@@ -14,3 +14,6 @@ git clone https://github.com/omercankoca/kodluyoruzilkrepo.git
 ```
 ## Usage
 Artık projenizi VS Code programında açabilirsiniz
+
+### MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
